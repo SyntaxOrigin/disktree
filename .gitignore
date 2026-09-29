@@ -1,0 +1,10 @@
+/target/
+.env
+*.log
+.idea/
+.vscode/
+*.swp
+*.tmp
+# README ornekleri icin uretilen demo agaci: scripts\demo-olustur.ps1 ile yeniden
+# uretilir, depoya girmez.
+/demo/
